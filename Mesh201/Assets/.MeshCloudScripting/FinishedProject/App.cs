@@ -80,7 +80,7 @@ namespace CloudScripting.Sample
 
                             var chatCompletionsOptions = new ChatCompletionsOptions()
                             {
-                                DeploymentName = "gpt-35-turbo", // Use DeploymentName for "model" with non-Azure clients
+                                DeploymentName = "copilot", // Use DeploymentName for "model" with non-Azure clients
                                 Messages =
                                 {
                                     // The system message represents instructions or other guidance about how the assistant should behave

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: mesh_cloud_scripting_settings
   m_EditorClassIdentifier: 
   _enableApplicationDebugging: 0
-  _runHubAutomatically: 1
+  _runHubAutomatically: 0
   _mockUserDisplayName: Mock User Display Name
   _mockUserPersistentId: Mock Persistent Id
   _mockEventId: mock-event-id-1234

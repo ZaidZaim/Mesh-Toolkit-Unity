@@ -1,0 +1,23 @@
+{
+  "uploadEntries": [
+    {
+      "assetId": "9e081a50-eb8b-4a46-8114-4041a30e45dc",
+      "name": "AI Integration - Testing",
+      "isEnabled": true,
+      "uploadItems": [
+        {
+          "prefabFilepath": "Assets/FinishedProject.unity",
+          "buildPlatforms": [
+            "android",
+            "pc"
+          ]
+        }
+      ],
+      "perPlatformAssets": false,
+      "thumbnailImagesFolder": "Assets\\MeshToolkit\\Thumbnails\\9e081a50",
+      "includeThumbnail": false,
+      "thumbnailGenerationBehavior": "Autogenerate",
+      "metaverseId": "75f5bb5c-267a-4eed-be53-68e088ced533"
+    }
+  ]
+}

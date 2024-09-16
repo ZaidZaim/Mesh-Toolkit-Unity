@@ -1,0 +1,26 @@
+{
+  "8c259bd4-34a2-46f0-aa9c-106d2393a6b5": {
+    "subscriptionID": "6576090b-36b2-4ba1-94ae-d2f52eed2789",
+    "resourceGroup": "rg-object-recognition-Unity",
+    "mode": "Dev",
+    "location": "DefaultLocation",
+    "enableAppMonitoring": true,
+    "lastDeployedEndpoint": ""
+  },
+  "cbffc07c-dddd-4ed7-b610-899db1f42dd5": {
+    "subscriptionID": "6576090b-36b2-4ba1-94ae-d2f52eed2789",
+    "resourceGroup": "rg-object-recognition-Unity",
+    "mode": "Dev",
+    "location": "DefaultLocation",
+    "enableAppMonitoring": true,
+    "lastDeployedEndpoint": ""
+  },
+  "9e081a50-eb8b-4a46-8114-4041a30e45dc": {
+    "subscriptionID": "6576090b-36b2-4ba1-94ae-d2f52eed2789",
+    "resourceGroup": "rg-object-recognition-Unity",
+    "mode": "Dev",
+    "location": "DefaultLocation",
+    "enableAppMonitoring": true,
+    "lastDeployedEndpoint": ""
+  }
+}
